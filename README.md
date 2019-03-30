@@ -1,7 +1,7 @@
 # My-App-website-template
 > This is a website appliction template that advertices an application.
 
-The website only is for design purposes, the interface does not work.
+The website is only for design purposes, the interface does not work.
 
 ![](header.png)
 
